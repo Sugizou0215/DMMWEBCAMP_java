@@ -17,5 +17,6 @@ public class Chapter15_3 {
         int i5 = 128;
         byte b1 = (byte)i5;
         System.out.println(b1);
+	}
 }
-}
+
